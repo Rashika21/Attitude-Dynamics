@@ -20,7 +20,15 @@ Project requisites are given below in the table.
 |Altitude | 500 km |
 
 ### Satellite physical properties
-The selected spacecraft is in cuboid shape as shown in figure 1. It is assumed that the
-solar panels are not deployed yet. Various quantities such[12_U_project_Rashika_10647823.pdf](https://github.com/Rashika21/Attitude-Dynamics/files/9541083/12_U_project_Rashika_10647823.pdf) 
- as weight, length and moment
-of inertia are appreciated in the table 2.
+The selected spacecraft is in cuboid shape as shown in figure 1. It is assumed that the solar panels are not deployed yet. Various quantities such  as weight, length and moment of inertia are appreciated in the below table.
+
+|Quantity | Value |
+| :---: | :---:
+| L*W*H* | 20 x 20 x 30 cm^3 |
+| Weight | 25 Kg |
+| J| 0.2666 ; 0.26; 0.1666 kgm^2 |
+
+12 U Cubesat can be found in the attched picture.
+![image](https://user-images.githubusercontent.com/64012053/189495579-4f78617c-6791-4c0e-b26e-ebf15c246bd2.png)
+
+
