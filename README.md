@@ -5,3 +5,16 @@ Professor: Biggs James Douglas - [Research page](https://www4.ceda.polimi.it/man
 ## Description
 A CubeSat (U-class spacecraft) is a miniaturized satellite made for space purposes and is composed by multiples of 10 x 10 x 10 cm cubic units. CubeSats are commonly
 put in orbit by deployers on the International Space Station, or launched as secondary payloads on a launch vehicle. The intent is to provide affordable access to space for the university science community, Government agencies and commercial groups thanks to a standardized design of the whole structure. In satellites, the attitude determination and control subsystem are the module which is responsible for maintaining, monitoring and controlling the satellite attitude against the environmental disturbances torques, which affect the satellite orientation and leads to angular destabilization of the satellite while it is in orbit. In this report design of attitude and control system for the 12 U cube-satellite which is at given orbit is presented.
+
+## Mission Analysis and Design
+### Mission Requirements and assigned Parameters 
+Project requisites are given below in the table 1. 
+
+| Requirements  | Details | 
+|     :---:    |     :---:      | 
+|Type of Cubesat | 12 U |
+|Sensors | Sun sensor and Earth Horizon sensor |
+|Actuators | 8 Cold Gas Thrusters and 4 Reaction wheels |
+|Detumbling | starting with ! > 5deg/s;!final close to 0 deg=s |
+|Tracking | Point to Sun with a pointing error Theta < 3 deg |
+|Altitude | 500 km |
