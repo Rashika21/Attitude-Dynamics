@@ -28,7 +28,9 @@ The selected spacecraft is in cuboid shape as shown in figure 1. It is assumed t
 | Weight | 25 Kg |
 | J| 0.2666 ; 0.26; 0.1666 kgm^2 |
 
-12 U Cubesat can be found in the attched picture.
-![image](https://user-images.githubusercontent.com/64012053/189495579-4f78617c-6791-4c0e-b26e-ebf15c246bd2.png)
+12 U Cubesat can be found in the Figure 1. 
+![image](https://user-images.githubusercontent.com/64012053/189497641-9590d0e4-5ed5-4e8a-a843-2562d740012c.png)
+
+
 
 
