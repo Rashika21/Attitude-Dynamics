@@ -24,14 +24,15 @@ The selected spacecraft is in cuboid shape as shown in figure 1. It is assumed t
 
 |Quantity | Value |
 | :---: | :---:
-| L*W*H* | 20 x 20 x 30 cm^3 |
+| L*W*H* | 20 x 20 x 30 cm<sup>3</sup> |
 | Weight | 25 Kg |
-| J| 0.2666 ; 0.26; 0.1666 kgm^2 |
+| J| 0.2666 ; 0.26; 0.1666 kgm<sup>2</sup> |
 
 12 U Cubesat can be found in the Figure 1. 
 
 ![image](https://user-images.githubusercontent.com/64012053/189497641-9590d0e4-5ed5-4e8a-a843-2562d740012c.png)
 
+The stability of the system is verified as the condition J<sub>x</sub> > J<sub>z</sub> and J<sub>y</sub> > J<sub>z</sub> is met, J<sub>z</sub> being the minimum inertia moment. 
 
 
 
