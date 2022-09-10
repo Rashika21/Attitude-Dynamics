@@ -8,13 +8,19 @@ put in orbit by deployers on the International Space Station, or launched as sec
 
 ## Mission Analysis and Design
 ### Mission Requirements and assigned Parameters 
-Project requisites are given below in the table 1. 
+Project requisites are given below in the table. 
 
 | Requirements  | Details | 
-|     :---:    |     :---:      | 
+|    :---:    |     :---:      | 
 |Type of Cubesat | 12 U |
 |Sensors | Sun sensor and Earth Horizon sensor |
 |Actuators | 8 Cold Gas Thrusters and 4 Reaction wheels |
 |Detumbling | starting with ! > 5deg/s;!final close to 0 deg=s |
 |Tracking | Point to Sun with a pointing error Theta < 3 deg |
 |Altitude | 500 km |
+
+### Satellite physical properties
+The selected spacecraft is in cuboid shape as shown in figure 1. It is assumed that the
+solar panels are not deployed yet. Various quantities such[12_U_project_Rashika_10647823.pdf](https://github.com/Rashika21/Attitude-Dynamics/files/9541083/12_U_project_Rashika_10647823.pdf) 
+ as weight, length and moment
+of inertia are appreciated in the table 2.
