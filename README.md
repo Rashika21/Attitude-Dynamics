@@ -39,3 +39,25 @@ As Shown in the figure 2 ADCS of the Cubesat is composed of Central unit for Att
 
 ![image](https://user-images.githubusercontent.com/64012053/189547364-5cd61070-05fd-4269-9762-64a4efc7ad63.png)
 
+## Spacecraft Dynamics
+In the analysis of a spacecraft’s dynamics, orbital mechanics and attitude dynamics are decoupled due to their different time scales.
+
+### Attitude Dynamics
+
+
+### Orbital Mechanics
+
+### Attitude Kinematics
+
+
+## Disturbance Torques
+
+The disturbances account for this project design are: Atmospheric drag; Gravity Gradient; Solar Radiation Pressure and Earth Magneic Field.
+
+## Sensors
+In this section a brief discussion on sensors is reported.
+
+### Gyroscope
+The gyroscope measures the angular velocity <span>&#8486;</span>. It is running at a very high frequency so it is also subjected to noise and drift. Those can be modelled by a white noise n and a bias b whose derivative b is also a white noise. n is a zero-mean Gaussian noise
+
+
