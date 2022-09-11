@@ -59,5 +59,5 @@ In this section a brief discussion on sensors is reported.
 
 ### Gyroscope
 The gyroscope measures the angular velocity <span>&#969;</span>. It is running at a very high frequency so it is also subjected to noise and drift. Those can be modelled by a white noise n and a bias b whose derivative b is also a white noise. n is a zero-mean Gaussian noise
-
+\underline{b}
 
