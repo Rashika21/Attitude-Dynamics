@@ -38,3 +38,4 @@ The stability of the system is verified as the condition J<sub>x</sub> > J<sub>z
 As Shown in the figure 2 ADCS of the Cubesat is composed of Central unit for Attitude control system which senses the surrounding environment via Sun sensor and Earth Horizon sensor along with Inertial Measuring unit made of gyros. Controlling part is carried out by two efficient actuators namely Cold gas thruster and Reaction wheels.
 
 ![image](https://user-images.githubusercontent.com/64012053/189547364-5cd61070-05fd-4269-9762-64a4efc7ad63.png)
+
